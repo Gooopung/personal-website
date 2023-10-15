@@ -89,6 +89,7 @@ color: rgb(0, 0, 0);
     position: relative;
 }
 .sidebar1 {
+    font-family: 'ebgbold';
     position: relative;
     overflow: hidden;
 }
