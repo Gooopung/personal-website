@@ -122,7 +122,7 @@ src: url('./fonts/static/EBGaramond-Regular.ttf');
 #disqus_thread {
     font-family: 'ebgreg';
     position: absolute;
-    top: 1350px;
+    top: 1450px;
     left: 400px;
     width: 750px;
     height: 200px;
@@ -160,3 +160,21 @@ src: url('./fonts/static/EBGaramond-Regular.ttf');
     top: 170px;
     left: 70px;
   } */
+  footer {
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 1890px;
+    margin-bottom: 30px;
+    font-size: 15px;
+    color: rgb(178, 178, 178);
+    }
+
+    code {
+        margin: 5px;
+        background-color: #efefef;
+        color: #4c4c4c;
+        border: 1px solid #cccccc65;
+        padding: 2px;
+        font-family: "Courier New", monospace;
+        border-radius: 5px; 
+      }
