@@ -112,7 +112,8 @@ src: url('./fonts/static/EBGaramond-Regular.ttf');
   }
 
 #text1 {
-
+    font-family: 'ibmregular';
+    font-size: 13px;
     color: #4f4f4f;
 }
 
