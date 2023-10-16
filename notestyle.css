@@ -91,7 +91,7 @@ src: url('./fonts/static/EBGaramond-Regular.ttf');
 .custom-div {
     position: absolute;
     top: 120px;
-    left: 300px;
+    left: 400px;
     width: 750px; /* 设置 div 的宽度，根据需要调整 */
     border: 1px solid #ffffff; /* 设置边框样式，根据需要调整 */
     padding: 10px; /* 设置内边距，根据需要调整 */
@@ -123,7 +123,7 @@ src: url('./fonts/static/EBGaramond-Regular.ttf');
     font-family: 'ebgreg';
     position: absolute;
     top: 1350px;
-    left: 300px;
+    left: 400px;
     width: 750px;
     height: 200px;
     background-color: #ffffff;
